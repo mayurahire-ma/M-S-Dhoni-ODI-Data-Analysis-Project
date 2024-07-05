@@ -1,0 +1,351 @@
+Match,Score,Runs_scored,Balls_faced,Strike_rate,Fours,Sixes,Opposition,Ground,Date,Odi_number,Aggr,Avg,How_Dismissed
+1,0,0,1,0,0,0,v Bangladesh,MA Aziz Stadium,23/12/2004,ODI # 2199,0,0,run out
+2,12,12,11,109.09,2,0,v Bangladesh,Bangabandhu National Stadium,26/12/2004,ODI # 2201,12,6,c Habibul Bashar b Mashrafe Mortaza
+3,7*,7,2,350,0,1,v Bangladesh,Bangabandhu National Stadium,27/12/2004,ODI # 2202,19,9.5,not out
+4,3,3,7,42.85,0,0,v Pakistan,Nehru Stadium (Kochi),02-04-2005,ODI # 2235,22,7.33,c Naved-ul-Hasan b Arshad Khan
+5,148,148,123,120.32,15,4,v Pakistan,Dr YS Rajasekhara Reddy Cricket Stadium,05-04-2005,ODI # 2236,170,42.5,c Shoaib Malik b Mohammad Hafeez
+6,28,28,24,116.66,5,0,v Pakistan,Keenan Stadium,09-04-2005,ODI # 2237,198,39.6,c †Kamran Akmal b Naved-ul-Hasan
+7,47,47,64,73.43,4,1,v Pakistan,Sardar Patel Stadium,12-04-2005,ODI # 2238,245,40.83,c †Kamran Akmal b Shoaib Malik
+8,11,11,16,68.75,1,0,v Pakistan,Green Park,15/04/2005,ODI # 2239,256,36.57,c Younis Khan b Naved-ul-Hasan
+9,24,24,38,63.15,2,0,v Pakistan,Arun Jaitley Stadium,17/04/2005,ODI # 2240,280,35,c Shahid Afridi b Arshad Khan
+10,2,2,7,28.57,0,0,v Sri Lanka,Rangiri Dambulla International Stadium,30/07/2005,ODI # 2262,282,31.33,b L H D Dilhara
+11,15*,15,11,136.36,1,1,v West Indies,Rangiri Dambulla International Stadium,31/07/2005,ODI # 2263,297,33,not out
+12,20,20,27,74.07,1,0,v Sri Lanka,Rangiri Dambulla International Stadium,03-08-2005,ODI # 2265,317,31.7,c & b T M Dilshan
+13,28*,28,13,215.38,1,2,v West Indies,R Premadasa Stadium,07-08-2005,ODI # 2267,345,34.5,not out
+14,7,7,11,63.63,0,0,v Sri Lanka,R Premadasa Stadium,09-08-2005,ODI # 2268,352,32,lbw b U D U Chandana
+15,2,2,5,40,0,0,v New Zealand,Queens Sports Club,26/08/2005,ODI # 2273,354,29.5,c †B B McCullum b A R Adams
+16,56,56,46,121.73,2,4,v Zimbabwe,Harare Sports Club,29/08/2005,ODI # 2274,410,31.54,c N B Mahwire b A J Ireland
+17,37*,37,27,137.03,3,2,v New Zealand,Harare Sports Club,02-09-2005,ODI # 2278,447,34.38,not out
+18,67*,67,63,106.34,1,3,v Zimbabwe,Harare Sports Club,04-09-2005,ODI # 2280,514,39.54,not out
+19,11,11,16,68.75,1,0,v New Zealand,Harare Sports Club,06-09-2005,ODI # 2281,525,37.5,lbw b S B Styris
+20,38,38,28,135.71,3,2,v Sri Lanka,Vidarbha Cricket Association Ground,25/10/2005,ODI # 2286,563,37.53,c D P M D Jayawardene b C R D Fernando
+21,DNB,-,-,-,-,-,v Sri Lanka,Punjab Cricket Association IS Bindra Stadium,28/10/2005,ODI # 2287,563,37.53,did not bat
+22,183*,183,145,126.2,15,10,v Sri Lanka,Sawai Mansingh Stadium,31/10/2005,ODI # 2290,746,49.73,not out
+23,45*,45,43,104.65,1,2,v Sri Lanka,Nehru Stadium (Pune),03-11-2005,ODI # 2291,791,52.73,not out
+24,0,0,1,0,0,0,v Sri Lanka,Sardar Patel Stadium,06-11-2005,ODI # 2294,791,49.44,lbw b D N T Zoysa
+25,DNB,-,-,-,-,-,v Sri Lanka,Madhavrao Scindia Cricket Ground,09-11-2005,ODI # 2295,791,49.44,did not bat
+26,80,80,73,109.58,9,3,v Sri Lanka,Reliance Stadium,12-11-2005,ODI # 2296,871,51.24,c sub b U D U Chandana
+27,17,17,28,60.71,1,0,v South Africa,Rajiv Gandhi International Stadium,16/11/2005,ODI # 2297,888,49.33,run out
+28,DNB,-,-,-,-,-,v South Africa,M Chinnaswamy Stadium,19/11/2005,ODI # 2298,888,49.33,did not bat
+29,14,14,26,53.84,0,0,v South Africa,Eden Gardens,25/11/2005,ODI # 2299,902,47.47,c J Botha b A J Hall
+30,12,12,26,46.15,1,0,v South Africa,Wankhede Stadium,28/11/2005,ODI # 2300,914,45.7,c †M V Boucher b C K Langeveldt
+31,68,68,53,128.3,11,1,v Pakistan,Arbab Niaz Stadium,06-02-2006,ODI # 2324,982,46.76,c Shoaib Malik b Mohammad Asif
+32,DNB,-,-,-,-,-,v Pakistan,Rawalpindi Cricket Stadium,11-02-2006,ODI # 2327,982,46.76,did not bat
+33,72*,72,46,156.52,13,0,v Pakistan,Gaddafi Stadium,13/02/2006,ODI # 2329,1054,50.19,not out
+34,2*,2,5,40,0,0,v Pakistan,Multan Cricket Stadium,16/02/2006,ODI # 2331,1056,50.29,not out
+35,77*,77,56,137.5,6,4,v Pakistan,National Stadium (Karachi),19/02/2006,ODI # 2333,1133,53.95,not out
+36,20,20,28,71.42,2,0,v England,Arun Jaitley Stadium,28/03/2006,ODI # 2357,1153,52.41,c P D Collingwood b L E Plunkett
+37,38,38,55,69.09,2,0,v England,Nahar Singh Stadium,31/03/2006,ODI # 2358,1191,51.78,b A Flintoff
+38,13*,13,6,216.66,1,1,v England,Nehru Stadium (Margao),03-04-2006,ODI # 2359,1204,52.35,not out
+39,10*,10,13,76.92,1,0,v England,Nehru Stadium (Kochi),06-04-2006,ODI # 2360,1214,52.78,not out
+40,96,96,106,90.56,10,3,v England,Keenan Stadium,12-04-2006,ODI # 2361,1310,54.58,c V S Solanki b S I Mahmood
+41,3,3,10,30,0,0,v Pakistan,Sheikh Zayed Stadium,18/04/2006,ODI # 2363,1313,52.52,b Shoaib Malik
+42,59,59,72,81.94,5,0,v Pakistan,Sheikh Zayed Stadium,19/04/2006,ODI # 2364,1372,52.77,b Naved-ul-Hasan
+43,18,18,11,163.63,2,1,v West Indies,Sabina Park,18/05/2006,ODI # 2377,1390,51.48,c R S Morton b D J J Bravo
+44,2,2,7,28.57,0,0,v West Indies,Sabina Park,20/05/2006,ODI # 2379,1392,49.71,b J E Taylor
+45,15,15,26,57.69,1,0,v West Indies,Warner Park,23/05/2006,ODI # 2380,1407,48.52,run out
+46,46*,46,58,79.31,6,0,v West Indies,Queen's Park Oval,26/05/2006,ODI # 2381,1453,50.1,not out
+47,14,14,19,73.68,2,0,v West Indies,Queen's Park Oval,28/05/2006,ODI # 2382,1467,48.9,b W W Hinds
+48,DNB,-,-,-,-,-,v Sri Lanka,Sinhalese Sports Club Ground,18/08/2006,ODI # 2405,1467,48.9,did not bat
+49,2,2,10,20,0,0,v West Indies,Kinrara Academy Oval,14/09/2006,ODI # 2414,1469,47.39,b J E Taylor
+50,DNB,-,-,-,-,-,v Australia,Kinrara Academy Oval,16/09/2006,ODI # 2416,1469,47.39,did not bat
+51,18,18,13,138.46,4,0,v West Indies,Kinrara Academy Oval,20/09/2006,ODI # 2419,1487,46.47,b C D Collymore
+52,23,23,34,67.64,0,1,v Australia,Kinrara Academy Oval,22/09/2006,ODI # 2421,1510,45.76,c D R Martyn b B Lee
+53,7,7,22,31.81,0,0,v England,Sawai Mansingh Stadium,15/10/2006,ODI # 2429,1517,44.62,c P D Collingwood b J W M Dalrymple
+54,51,51,65,78.46,1,2,v West Indies,Sardar Patel Stadium,26/10/2006,ODI # 2437,1568,44.8,run out
+55,28,28,23,121.73,2,0,v Australia,Punjab Cricket Association IS Bindra Stadium,29/10/2006,ODI # 2440,1596,44.33,lbw b N W Bracken
+56,14,14,27,51.85,3,0,v South Africa,Kingsmead,22/11/2006,ODI # 2447,1610,43.51,c †M V Boucher b A Nel
+57,55,55,48,114.58,3,4,v South Africa,Newlands,26/11/2006,ODI # 2449,1665,43.82,c L L Bosman b J H Kallis
+58,26,26,21,123.8,4,1,v South Africa,St George's Park,29/11/2006,ODI # 2452,1691,43.36,c sub b A Nel
+59,44,44,49,89.79,2,2,v South Africa,SuperSport Park,03-12-2006,ODI # 2458,1735,43.38,c A Nel b M Ntini
+60,62*,62,42,147.61,3,4,v West Indies,Vidarbha Cricket Association Ground,21/01/2007,ODI # 2480,1797,44.93,not out
+61,6,6,19,31.57,0,0,v West Indies,Barabati Stadium,24/01/2007,ODI # 2485,1803,43.98,c & b D R Smith
+62,40*,40,20,200,1,3,v West Indies,Reliance Stadium,31/01/2007,ODI # 2493,1843,44.95,not out
+63,TDNB,-,-,-,-,-,v Sri Lanka,Eden Gardens,08-02-2007,ODI # 2514,1843,44.95,did not bat
+64,48,48,68,70.58,1,0,v Sri Lanka,Madhavrao Scindia Cricket Ground,11-02-2007,ODI # 2520,1891,45.02,c M F Maharoof b S T Jayasuriya
+65,67*,67,74,90.54,4,0,v Sri Lanka,Nehru Stadium (Margao),14/02/2007,ODI # 2522,1958,46.62,not out
+66,DNB,-,-,-,-,-,v Sri Lanka,Dr YS Rajasekhara Reddy Cricket Stadium,17/02/2007,ODI # 2525,1958,46.62,did not bat
+67,0,0,3,0,0,0,v Bangladesh,Queen's Park Oval,17/03/2007,ODI # 2538,1958,45.53,c Aftab Ahmed b Mohammad Rafique
+68,29,29,25,116,2,1,v Bermuda,Queen's Park Oval,19/03/2007,ODI # 2542,1987,45.16,c J J Tucker b D C Borden
+69,0,0,1,0,0,0,v Sri Lanka,Queen's Park Oval,23/03/2007,ODI # 2550,1987,44.16,lbw b M Muralitharan
+70,91*,91,106,85.84,7,0,v Bangladesh,Shere Bangla National Stadium,10-05-2007,ODI # 2582,2078,46.18,not out
+71,36,36,54,66.66,4,0,v Bangladesh,Shere Bangla National Stadium,12-05-2007,ODI # 2583,2114,45.96,c †Mushfiqur Rahim b Mohammad Rafique
+72,2,2,4,50,0,0,v Africa XI,M Chinnaswamy Stadium,06-06-2007,ODI # 2587,2116,45.02,run out
+73,33,33,38,86.84,2,2,v Africa XI,MA Chidambaram Stadium,09-06-2007,ODI # 2588,2149,44.77,b J A Morkel
+74,139*,139,97,143.29,15,5,v Africa XI,MA Chidambaram Stadium,10-06-2007,ODI # 2589,2288,47.67,not out
+75,0,0,4,0,0,0,v South Africa,Civil Service Cricket Club,29/06/2007,ODI # 2593,2288,46.69,b M Ntini
+76,14*,14,11,127.27,2,0,v South Africa,Civil Service Cricket Club,01-07-2007,ODI # 2595,2302,46.98,not out
+77,DNB,-,-,-,-,-,v Scotland,Titwood,16/08/2007,ODI # 2608,2302,46.98,did not bat
+78,19,19,60,31.66,1,0,v England,The Rose Bowl,21/08/2007,ODI # 2611,2321,46.42,c †M J Prior b A Flintoff
+79,21,21,18,116.66,3,0,v England,County Ground (Bristol),24/08/2007,ODI # 2613,2342,45.92,c C T Tremlett b J M Anderson
+80,13,13,20,65,0,0,v England,Edgbaston,27/08/2007,ODI # 2616,2355,45.29,c P D Collingwood b J M Anderson
+81,13,13,18,72.22,1,0,v England,Old Trafford,30/08/2007,ODI # 2617,2368,44.68,b M S Panesar
+82,24,24,17,141.17,3,0,v England,Headingley,02-09-2007,ODI # 2618,2392,44.3,c †M J Prior b J M Anderson
+83,35,35,37,94.59,3,0,v England,Kennington Oval,05-09-2007,ODI # 2619,2427,44.13,b S C J Broad
+84,50,50,72,69.44,4,1,v England,Lord's,08-09-2007,ODI # 2620,2477,44.23,c J M Anderson b A Flintoff
+85,DNB,-,-,-,-,-,v Australia,M Chinnaswamy Stadium,29/09/2007,ODI # 2621,2477,44.23,did not bat
+86,58,58,88,65.9,2,2,v Australia,Nehru Stadium (Kochi),02-10-2007,ODI # 2623,2535,44.47,c B J Hodge b G B Hogg
+87,33,33,37,89.18,4,0,v Australia,Rajiv Gandhi International Stadium,05-10-2007,ODI # 2625,2568,44.28,c †A C Gilchrist b B Lee
+88,50*,50,35,142.85,5,1,v Australia,Sector 16 Stadium,08-10-2007,ODI # 2627,2618,45.14,not out
+89,4,4,7,57.14,1,0,v Australia,Reliance Stadium,11-10-2007,ODI # 2629,2622,44.44,c †A C Gilchrist b M G Johnson
+90,26,26,29,89.65,2,1,v Australia,Vidarbha Cricket Association Ground,14/10/2007,ODI # 2631,2648,44.13,c R T Ponting b M G Johnson
+91,5,5,11,45.45,1,0,v Australia,Wankhede Stadium,17/10/2007,ODI # 2632,2653,43.49,c †A C Gilchrist b N W Bracken
+92,63,63,77,81.81,8,0,v Pakistan,Nehru Stadium (Guwahati),05-11-2007,ODI # 2643,2716,43.81,c †Kamran Akmal b Shoaib Akhtar
+93,4,4,10,40,0,0,v Pakistan,Punjab Cricket Association IS Bindra Stadium,08-11-2007,ODI # 2644,2720,43.17,c †Kamran Akmal b Shoaib Akhtar
+94,49,49,52,94.23,4,2,v Pakistan,Green Park,11-11-2007,ODI # 2645,2769,43.27,b Shoaib Akhtar
+95,45*,45,45,100,3,1,v Pakistan,Captain Roop Singh Stadium,15/11/2007,ODI # 2646,2814,43.97,not out
+96,24,24,32,75,1,0,v Pakistan,Sawai Mansingh Stadium,18/11/2007,ODI # 2647,2838,43.66,c Imran Nazir b Shoaib Malik
+97,37,37,61,60.65,1,0,v Australia,Brisbane Cricket Ground,03-02-2008,ODI # 2670,2875,43.56,c R T Ponting b B Lee
+98,88*,88,95,92.63,5,1,v Sri Lanka,Brisbane Cricket Ground,04-02-2008,ODI # 2672,2963,44.89,not out
+99,17*,17,54,31.48,0,0,v Australia,Melbourne Cricket Ground,10-02-2008,ODI # 2675,2980,45.15,not out
+100,31,31,26,119.23,3,0,v Sri Lanka,Manuka Oval,12-02-2008,ODI # 2676,3011,44.94,run out
+101,37,37,50,74,1,0,v Australia,Adelaide Oval,17/02/2008,ODI # 2680,3048,44.82,run out
+102,50*,50,68,73.52,0,0,v Sri Lanka,Adelaide Oval,19/02/2008,ODI # 2681,3098,45.56,not out
+103,36,36,66,54.54,4,0,v Australia,Sydney Cricket Ground,24/02/2008,ODI # 2685,3134,45.42,c †A C Gilchrist b B Lee
+104,DNB,-,-,-,-,-,v Sri Lanka,Bellerive Oval,26/02/2008,ODI # 2686,3134,45.42,did not bat
+105,15*,15,12,125,3,0,v Australia,Sydney Cricket Ground,02-03-2008,ODI # 2688,3149,45.64,not out
+106,36,36,37,97.29,2,1,v Australia,Brisbane Cricket Ground,04-03-2008,ODI # 2689,3185,45.5,c M J Clarke b N W Bracken
+107,24,24,23,104.34,5,0,v Pakistan,Shere Bangla National Stadium,10-06-2008,ODI # 2705,3209,45.2,lbw b Sohail Tanvir
+108,DNB,-,-,-,-,-,v Bangladesh,Shere Bangla National Stadium,12-06-2008,ODI # 2706,3209,45.2,did not bat
+109,64,64,59,108.47,3,2,v Pakistan,Shere Bangla National Stadium,14/06/2008,ODI # 2707,3273,45.46,c sub b Shahid Afridi
+110,109*,109,96,113.54,6,6,v Hong Kong,National Stadium (Karachi),25/06/2008,ODI # 2716,3382,46.97,not out
+111,26*,26,30,86.66,0,1,v Pakistan,National Stadium (Karachi),26/06/2008,ODI # 2717,3408,47.33,not out
+112,DNB,-,-,-,-,-,v Bangladesh,National Stadium (Karachi),28/06/2008,ODI # 2721,3408,47.33,did not bat
+113,76,76,96,79.16,4,0,v Pakistan,National Stadium (Karachi),02-07-2008,ODI # 2730,3484,47.73,c †Sarfaraz Ahmed b Sohail Tanvir
+114,67,67,62,108.06,5,1,v Sri Lanka,National Stadium (Karachi),03-07-2008,ODI # 2732,3551,47.99,b M Muralitharan
+115,49,49,74,66.21,4,0,v Sri Lanka,National Stadium (Karachi),06-07-2008,ODI # 2735,3600,48,c †K C Sangakkara b W P U J C Vaas
+116,6,6,28,21.42,0,0,v Sri Lanka,Rangiri Dambulla International Stadium,18/08/2008,ODI # 2742,3606,47.45,c D P M D Jayawardene b B A W Mendis
+117,39,39,54,72.22,3,0,v Sri Lanka,Rangiri Dambulla International Stadium,20/08/2008,ODI # 2745,3645,47.34,b C R D Fernando
+118,76,76,80,95,8,0,v Sri Lanka,R Premadasa Stadium,24/08/2008,ODI # 2750,3721,47.71,c D P M D Jayawardene b B A W Mendis
+119,71,71,80,88.75,4,0,v Sri Lanka,R Premadasa Stadium,27/08/2008,ODI # 2755,3792,48,c S T Jayasuriya b T Thushara
+120,1,1,7,14.28,0,0,v Sri Lanka,R Premadasa Stadium,29/08/2008,ODI # 2756,3793,47.41,b C R D Fernando
+121,39,39,32,121.87,3,1,v England,Madhavrao Scindia Cricket Ground,14/11/2008,ODI # 2774,3832,47.31,b S J Harmison
+122,15,15,26,57.69,1,0,v England,Holkar Cricket Stadium,17/11/2008,ODI # 2777,3847,46.91,b P D Collingwood
+123,29*,29,51,56.86,4,0,v England,Green Park,20/11/2008,ODI # 2778,3876,47.27,not out
+124,9,9,5,180,0,1,v England,M Chinnaswamy Stadium,23/11/2008,ODI # 2781,3885,46.81,b S R Patel
+125,50,50,61,81.96,5,0,v England,Barabati Stadium,26/11/2008,ODI # 2783,3935,46.85,lbw b G P Swann
+126,61*,61,65,93.84,5,0,v Sri Lanka,Rangiri Dambulla International Stadium,28/01/2009,ODI # 2806,3996,47.57,not out
+127,23,23,35,65.71,0,0,v Sri Lanka,R Premadasa Stadium,31/01/2009,ODI # 2810,4019,47.28,c †K C Sangakkara b M F Maharoof
+128,35*,35,45,77.77,1,0,v Sri Lanka,R Premadasa Stadium,03-02-2009,ODI # 2813,4054,47.69,not out
+129,94,94,96,97.91,4,2,v Sri Lanka,R Premadasa Stadium,05-02-2009,ODI # 2815,4148,48.23,c C R D Fernando b S T Jayasuriya
+130,53,53,58,91.37,1,2,v Sri Lanka,R Premadasa Stadium,08-02-2009,ODI # 2818,4201,48.29,c K M D N Kulasekara b S T Jayasuriya
+131,84*,84,89,94.38,6,0,v New Zealand,McLean Park,03-03-2009,ODI # 2821,4285,49.25,not out
+132,23*,23,19,121.05,2,0,v New Zealand,Westpac Stadium,06-03-2009,ODI # 2822,4308,49.52,not out
+133,68,68,58,117.24,5,2,v New Zealand,AMI Stadium,08-03-2009,ODI # 2823,4376,49.73,c †P D McGlashan b K D Mills
+134,DNB,-,-,-,-,-,v New Zealand,Seddon Park,11-03-2009,ODI # 2824,4376,49.73,did not bat
+135,9,9,21,42.85,1,0,v New Zealand,Eden Park,14/03/2009,ODI # 2825,4385,49.27,b J D Ryder
+136,41,41,46,89.13,2,1,v West Indies,Sabina Park,26/06/2009,ODI # 2852,4426,49.18,run out
+137,95,95,130,73.07,6,2,v West Indies,Sabina Park,28/06/2009,ODI # 2853,4521,49.68,b J E Taylor
+138,46*,46,34,135.29,2,1,v West Indies,Darren Sammy National Cricket Stadium,03-07-2009,ODI # 2854,4567,50.19,not out
+139,TDNB,-,-,-,-,-,v West Indies,Darren Sammy National Cricket Stadium,05-07-2009,ODI # 2855,4567,50.19,did not bat
+140,35*,35,65,53.84,4,0,v New Zealand,R Premadasa Stadium,11-09-2009,ODI # 2886,4602,50.57,not out
+141,8,8,18,44.44,0,0,v Sri Lanka,R Premadasa Stadium,12-09-2009,ODI # 2887,4610,50.11,b A D Mathews
+142,56,56,62,90.32,3,0,v Sri Lanka,R Premadasa Stadium,14/09/2009,ODI # 2889,4666,50.17,c S H T Kandamby b S L Malinga
+143,3,3,9,33.33,0,0,v Pakistan,SuperSport Park,26/09/2009,ODI # 2898,4669,49.67,lbw b Shahid Afridi
+144,TDNB,-,-,-,-,-,v Australia,SuperSport Park,28/09/2009,ODI # 2901,4669,49.67,did not bat
+145,DNB,-,-,-,-,-,v West Indies,Wanderers Stadium,30/09/2009,ODI # 2904,4669,49.67,did not bat
+146,34,34,46,73.91,4,0,v Australia,Reliance Stadium,25/10/2009,ODI # 2913,4703,49.51,c B Lee b S R Watson
+147,124,124,107,115.88,9,3,v Australia,Vidarbha Cricket Association Stadium,28/10/2009,ODI # 2915,4827,50.28,c †T D Paine b M G Johnson
+148,71*,71,95,74.73,6,0,v Australia,Arun Jaitley Stadium,31/10/2009,ODI # 2918,4898,51.02,not out
+149,26,26,46,56.52,2,0,v Australia,Punjab Cricket Association IS Bindra Stadium,02-11-2009,ODI # 2919,4924,50.76,c †G A Manou b D E Bollinger
+150,6,6,15,40,0,0,v Australia,Rajiv Gandhi International Stadium,05-11-2009,ODI # 2923,4930,50.31,c A C Voges b C J McKay
+151,24,24,77,31.16,1,0,v Australia,Nehru Stadium (Guwahati),08-11-2009,ODI # 2925,4954,50.04,lbw b D E Bollinger
+152,72,72,53,135.84,7,3,v Sri Lanka,Madhavrao Scindia Cricket Ground,15/12/2009,ODI # 2932,5026,50.26,c A D Mathews b C R D Fernando
+153,107,107,111,96.39,8,2,v Sri Lanka,Vidarbha Cricket Association Stadium,18/12/2009,ODI # 2933,5133,50.82,c T M Dilshan b S Randiv
+154,TDNB,-,-,-,-,-,v Sri Lanka,Arun Jaitley Stadium,27/12/2009,ODI # 2936,5133,50.82,did not bat
+155,37,37,70,52.85,3,0,v Sri Lanka,Shere Bangla National Stadium,05-01-2010,ODI # 2938,5170,50.69,c †K C Sangakkara b N L T C Perera
+156,101*,101,107,94.39,9,0,v Bangladesh,Shere Bangla National Stadium,07-01-2010,ODI # 2939,5271,51.68,not out
+157,DNB,-,-,-,-,-,v Sri Lanka,Shere Bangla National Stadium,10-01-2010,ODI # 2941,5271,51.68,did not bat
+158,32,32,35,91.42,3,0,v Bangladesh,Shere Bangla National Stadium,11-01-2010,ODI # 2942,5303,51.49,c Imrul Kayes b Shakib Al Hasan
+159,14,14,19,73.68,3,0,v Sri Lanka,Shere Bangla National Stadium,13/01/2010,ODI # 2943,5317,51.13,c †K C Sangakkara b K M D N Kulasekara
+160,26,26,29,89.65,2,0,v South Africa,Sawai Mansingh Stadium,21/02/2010,ODI # 2961,5343,50.89,c J A Morkel b J H Kallis
+161,68*,68,35,194.28,7,4,v South Africa,Captain Roop Singh Stadium,24/02/2010,ODI # 2962,5411,51.53,not out
+162,9,9,7,128.57,0,1,v South Africa,Sardar Patel Stadium,27/02/2010,ODI # 2963,5420,51.13,c †M V Boucher b D W Steyn
+163,38*,38,45,84.44,3,1,v Bangladesh,Rangiri Dambulla International Stadium,16/06/2010,ODI # 2993,5458,51.49,not out
+164,56,56,71,78.87,2,1,v Pakistan,Rangiri Dambulla International Stadium,19/06/2010,ODI # 2996,5514,51.53,b Shoaib Malik
+165,41,41,53,77.35,6,0,v Sri Lanka,Rangiri Dambulla International Stadium,22/06/2010,ODI # 2999,5555,51.44,run out
+166,38,38,50,76,2,1,v Sri Lanka,Rangiri Dambulla International Stadium,24/06/2010,ODI # 3001,5593,51.31,c K M D N Kulasekara b S H T Kandamby
+167,2,2,9,22.22,0,0,v New Zealand,Rangiri Dambulla International Stadium,10-08-2010,ODI # 3030,5595,50.86,run out
+168,23*,23,38,60.52,2,0,v Sri Lanka,Rangiri Dambulla International Stadium,16/08/2010,ODI # 3032,5618,51.07,not out
+169,10,10,16,62.5,2,0,v Sri Lanka,Rangiri Dambulla International Stadium,21/08/2010,ODI # 3038,5628,50.7,c †K C Sangakkara b N L T C Perera
+170,38,38,75,50.66,3,0,v New Zealand,Rangiri Dambulla International Stadium,25/08/2010,ODI # 3039,5666,50.59,c †G J Hopkins b N L McCullum
+171,67,67,100,67,5,1,v Sri Lanka,Rangiri Dambulla International Stadium,28/08/2010,ODI # 3040,5733,50.73,b S Randiv
+172,0,0,1,0,0,0,v Australia,Dr YS Rajasekhara Reddy Cricket Stadium,20/10/2010,ODI # 3060,5733,50.29,b J W Hastings
+173,25,25,35,71.42,1,0,v South Africa,Kingsmead,12-01-2011,ODI # 3079,5758,50.07,run out
+174,38,38,61,62.29,1,0,v South Africa,Wanderers Stadium,15/01/2011,ODI # 3080,5796,49.97,b L L Tsotsobe
+175,5,5,12,41.66,1,0,v South Africa,Newlands,18/01/2011,ODI # 3082,5801,49.58,c †A B de Villiers b J Botha
+176,2,2,8,25,0,0,v South Africa,St George's Park,21/01/2011,ODI # 3084,5803,49.18,c F du Plessis b R J Peterson
+177,5,5,10,50,1,0,v South Africa,SuperSport Park,23/01/2011,ODI # 3087,5808,48.81,c G C Smith b M Morkel
+178,DNB,-,-,-,-,-,v Bangladesh,Shere Bangla National Stadium,19/02/2011,ODI # 3100,5808,48.81,did not bat
+179,31,31,25,124,3,1,v England,M Chinnaswamy Stadium,27/02/2011,ODI # 3110,5839,48.66,c sub b T T Bresnan
+180,34,34,50,68,2,0,v Ireland,M Chinnaswamy Stadium,06-03-2011,ODI # 3121,5873,48.54,lbw b G H Dockrell
+181,19*,19,40,47.5,2,0,v Netherlands,Arun Jaitley Stadium,09-03-2011,ODI # 3124,5892,48.69,not out
+182,12*,12,21,57.14,0,0,v South Africa,Vidarbha Cricket Association Stadium,12-03-2011,ODI # 3128,5904,48.79,not out
+183,22,22,30,73.33,1,0,v West Indies,MA Chidambaram Stadium,20/03/2011,ODI # 3141,5926,48.57,st D C Thomas b D Bishoo
+184,7,7,8,87.5,1,0,v Australia,Sardar Patel Stadium,24/03/2011,ODI # 3143,5933,48.24,c M J Clarke b B Lee
+185,25,25,42,59.52,2,0,v Pakistan,Punjab Cricket Association IS Bindra Stadium,30/03/2011,ODI # 3147,5958,48.05,lbw b Wahab Riaz
+186,91*,91,79,115.18,8,2,v Sri Lanka,Wankhede Stadium,02-04-2011,ODI # 3148,6049,48.78,not out
+187,33,33,36,91.66,2,0,v England,Riverside Ground,03-09-2011,ODI # 3186,6082,48.66,c †C Kieswetter b T T Bresnan
+188,6,6,5,120,1,0,v England,The Rose Bowl,06-09-2011,ODI # 3187,6088,48.32,c I R Bell b T T Bresnan
+189,69,69,103,66.99,5,0,v England,Kennington Oval,09-09-2011,ODI # 3189,6157,48.48,c A N Cook b T T Bresnan
+190,78*,78,71,109.85,6,3,v England,Lord's,11-09-2011,ODI # 3191,6235,49.09,not out
+191,50*,50,26,192.3,5,2,v England,Sophia Gardens,16/09/2011,ODI # 3195,6285,49.49,not out
+192,87*,87,70,124.28,10,1,v England,Rajiv Gandhi International Stadium,14/10/2011,ODI # 3199,6372,50.17,not out
+193,DNB,-,-,-,-,-,v England,Arun Jaitley Stadium,17/10/2011,ODI # 3201,6372,50.17,did not bat
+194,35*,35,31,112.9,3,0,v England,Punjab Cricket Association IS Bindra Stadium,20/10/2011,ODI # 3205,6407,50.45,not out
+195,15*,15,18,83.33,1,1,v England,Wankhede Stadium,23/10/2011,ODI # 3207,6422,50.57,not out
+196,75*,75,69,108.69,3,4,v England,Eden Gardens,25/10/2011,ODI # 3210,6497,51.16,not out
+197,29,29,38,76.31,1,0,v Australia,Melbourne Cricket Ground,05-02-2012,ODI # 3231,6526,50.98,c D A Warner b X J Doherty
+198,4,4,5,80,1,0,v Sri Lanka,WACA Ground,08-02-2012,ODI # 3233,6530,50.62,c S L Malinga b K T G D Prasad
+199,44*,44,58,75.86,0,1,v Australia,Adelaide Oval,12-02-2012,ODI # 3237,6574,50.96,not out
+200,58*,58,69,84.05,3,1,v Sri Lanka,Adelaide Oval,14/02/2012,ODI # 3239,6632,51.41,not out
+201,56,56,84,66.66,2,1,v Australia,Brisbane Cricket Ground,19/02/2012,ODI # 3244,6688,51.45,c D T Christian b B W Hilfenhaus
+202,14,14,49,28.57,0,0,v Australia,Sydney Cricket Ground,26/02/2012,ODI # 3250,6702,51.16,lbw b B W Hilfenhaus
+203,DNB,-,-,-,-,-,v Sri Lanka,Bellerive Oval,28/02/2012,ODI # 3251,6702,51.16,did not bat
+204,46*,46,26,176.92,6,1,v Sri Lanka,Shere Bangla National Stadium,13/03/2012,ODI # 3259,6748,51.51,not out
+205,21*,21,11,190.9,2,0,v Bangladesh,Shere Bangla National Stadium,16/03/2012,ODI # 3261,6769,51.67,not out
+206,4*,4,1,400,1,0,v Pakistan,Shere Bangla National Stadium,18/03/2012,ODI # 3263,6773,51.7,not out
+207,35,35,29,120.68,3,1,v Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,21/07/2012,ODI # 3291,6808,51.58,c H D R L Thirimanne b N L T C Perera
+208,11,11,16,68.75,2,0,v Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,24/07/2012,ODI # 3292,6819,51.27,c †K C Sangakkara b A D Mathews
+209,31,31,49,63.26,1,0,v Sri Lanka,R Premadasa Stadium,28/07/2012,ODI # 3293,6850,51.12,b S L Malinga
+210,DNB,-,-,-,-,-,v Sri Lanka,R Premadasa Stadium,31/07/2012,ODI # 3294,6850,51.12,did not bat
+211,58,58,38,152.63,8,1,v Sri Lanka,Pallekele International Cricket Stadium,04-08-2012,ODI # 3295,6908,51.17,c †L D Chandimal b S L Malinga
+212,113*,113,125,90.4,7,3,v Pakistan,MA Chidambaram Stadium,30/12/2012,ODI # 3314,7021,52.01,not out
+213,54*,54,89,60.67,4,1,v Pakistan,Eden Gardens,03-01-2013,ODI # 3315,7075,52.41,not out
+214,36,36,55,65.45,1,3,v Pakistan,Arun Jaitley Stadium,06-01-2013,ODI # 3316,7111,52.29,c Umar Akmal b Umar Gul
+215,32,32,25,128,0,4,v England,Saurashtra Cricket Association Stadium,11-01-2013,ODI # 3318,7143,52.14,c J E Root b J W Dernbach
+216,72,72,66,109.09,7,2,v England,Nehru Stadium (Kochi),15/01/2013,ODI # 3320,7215,52.28,c J E Root b J W Dernbach
+217,10*,10,12,83.33,2,0,v England,JSCA International Stadium Complex,19/01/2013,ODI # 3322,7225,52.36,not out
+218,19,19,21,90.47,2,0,v England,Punjab Cricket Association IS Bindra Stadium,23/01/2013,ODI # 3327,7244,52.12,c E J G Morgan b J W Dernbach
+219,15,15,23,65.21,2,0,v England,Himachal Pradesh Cricket Association Stadium,27/01/2013,ODI # 3329,7259,51.85,lbw b S T Finn
+220,27,27,26,103.84,3,0,v South Africa,Sophia Gardens,06-06-2013,ODI # 3363,7286,51.67,c F du Plessis b L L Tsotsobe
+221,DNB,-,-,-,-,-,v West Indies,Kennington Oval,11-06-2013,ODI # 3368,7286,51.67,did not bat
+222,DNB,-,-,-,-,-,v Pakistan,Edgbaston,15/06/2013,ODI # 3372,7286,51.67,did not bat
+223,DNB,-,-,-,-,-,v Sri Lanka,Sophia Gardens,20/06/2013,ODI # 3376,7286,51.67,did not bat
+224,0,0,4,0,0,0,v England,Edgbaston,23/06/2013,ODI # 3377,7286,51.31,c J C Tredwell b R S Bopara
+225,27,27,35,77.14,1,0,v West Indies,Sabina Park,30/06/2013,ODI # 3380,7313,51.14,b T L Best
+226,45*,45,52,86.53,5,2,v Sri Lanka,Queen's Park Oval,11-07-2013,ODI # 3388,7358,51.45,not out
+227,19,19,22,86.36,2,0,v Australia,Maharashtra Cricket Association Stadium,13/10/2013,ODI # 3419,7377,51.23,b C J McKay
+228,DNB,-,-,-,-,-,v Australia,Sawai Mansingh Stadium,16/10/2013,ODI # 3420,7377,51.23,did not bat
+229,139*,139,121,114.87,12,5,v Australia,Punjab Cricket Association IS Bindra Stadium,19/10/2013,ODI # 3421,7516,52.19,not out
+230,DNB,-,-,-,-,-,v Australia,JSCA International Stadium Complex,23/10/2013,ODI # 3422,7516,52.19,did not bat
+231,25*,25,23,108.69,2,0,v Australia,Vidarbha Cricket Association Stadium,30/10/2013,ODI # 3424,7541,52.37,not out
+232,62,62,38,163.15,7,2,v Australia,M Chinnaswamy Stadium,02-11-2013,ODI # 3428,7603,52.43,run out
+233,13*,13,7,185.71,3,0,v West Indies,Nehru Stadium (Kochi),21/11/2013,ODI # 3436,7616,52.52,not out
+234,51*,51,40,127.5,3,4,v West Indies,Dr YS Rajasekhara Reddy Cricket Stadium,24/11/2013,ODI # 3437,7667,52.88,not out
+235,23*,23,23,100,3,0,v West Indies,Green Park,27/11/2013,ODI # 3439,7690,53.03,not out
+236,65,65,71,91.54,8,1,v South Africa,Wanderers Stadium,05-12-2013,ODI # 3442,7755,53.12,b D W Steyn
+237,19,19,31,61.29,0,0,v South Africa,Kingsmead,08-12-2013,ODI # 3443,7774,52.88,c †Q de Kock b V D Philander
+238,TDNB,-,-,-,-,-,v South Africa,SuperSport Park,11-12-2013,ODI # 3444,7774,52.88,did not bat
+239,40,40,46,86.95,2,2,v New Zealand,McLean Park,19/01/2014,ODI # 3456,7814,52.8,c †L Ronchi b M J McClenaghan
+240,56,56,44,127.27,7,1,v New Zealand,Seddon Park,22/01/2014,ODI # 3458,7870,52.82,c K S Williamson b C J Anderson
+241,50,50,60,83.33,2,3,v New Zealand,Eden Park,25/01/2014,ODI # 3462,7920,52.8,c T G Southee b C J Anderson
+242,79*,79,73,108.21,6,3,v New Zealand,Seddon Park,28/01/2014,ODI # 3465,7999,53.33,not out
+243,47,47,72,65.27,3,0,v New Zealand,Westpac Stadium,31/01/2014,ODI # 3467,8046,53.28,c J D S Neesham b K S Williamson
+244,52,52,51,101.96,6,0,v England,Sophia Gardens,27/08/2014,ODI # 3517,8098,53.28,b C R Woakes
+245,DNB,-,-,-,-,-,v England,Trent Bridge,30/08/2014,ODI # 3520,8098,53.28,did not bat
+246,DNB,-,-,-,-,-,v England,Edgbaston,02-09-2014,ODI # 3523,8098,53.28,did not bat
+247,29,29,42,69.04,1,1,v England,Headingley,05-09-2014,ODI # 3525,8127,53.12,c B A Stokes b S T Finn
+248,8,8,21,38.09,0,0,v West Indies,Nehru Stadium (Kochi),08-10-2014,ODI # 3531,8135,52.82,b D J G Sammy
+249,51*,51,40,127.5,5,1,v West Indies,Arun Jaitley Stadium,11-10-2014,ODI # 3533,8186,53.16,not out
+250,6,6,5,120,0,0,v West Indies,Himachal Pradesh Cricket Association Stadium,17/10/2014,ODI # 3535,8192,52.85,run out
+251,19,19,31,61.29,2,0,v Australia,Melbourne Cricket Ground,18/01/2015,ODI # 3582,8211,52.63,b M A Starc
+252,34,34,61,55.73,1,0,v England,Brisbane Cricket Ground,20/01/2015,ODI # 3586,8245,52.52,c †J C Buttler b S T Finn
+253,DNB,-,-,-,-,-,v Australia,Sydney Cricket Ground,26/01/2015,ODI # 3592,8245,52.52,did not bat
+254,17,17,32,53.12,3,0,v England,WACA Ground,30/01/2015,ODI # 3595,8262,52.29,lbw b J M Anderson
+255,18,18,13,138.46,1,1,v Pakistan,Adelaide Oval,15/02/2015,ODI # 3602,8280,52.08,c Misbah-ul-Haq b Sohail Khan
+256,18,18,11,163.63,3,0,v South Africa,Melbourne Cricket Ground,22/02/2015,ODI # 3610,8298,51.86,c †Q de Kock b M Morkel
+257,DNB,-,-,-,-,-,v U.A.E.,WACA Ground,28/02/2015,ODI # 3618,8298,51.86,did not bat
+258,45*,45,56,80.35,3,1,v West Indies,WACA Ground,06-03-2015,ODI # 3625,8343,52.14,not out
+259,DNB,-,-,-,-,-,v Ireland,Seddon Park,10-03-2015,ODI # 3631,8343,52.14,did not bat
+260,85*,85,76,111.84,8,2,v Zimbabwe,Eden Park,14/03/2015,ODI # 3636,8428,52.68,not out
+261,6,6,11,54.54,0,0,v Bangladesh,Melbourne Cricket Ground,19/03/2015,ODI # 3641,8434,52.39,c Nasir Hossain b Taskin Ahmed
+262,65,65,65,100,3,2,v Australia,Sydney Cricket Ground,26/03/2015,ODI # 3645,8499,52.46,run out
+263,5,5,7,71.42,0,0,v Bangladesh,Shere Bangla National Stadium,18/06/2015,ODI # 3658,8504,52.17,c †Mushfiqur Rahim b Shakib Al Hasan
+264,47,47,75,62.66,3,0,v Bangladesh,Shere Bangla National Stadium,21/06/2015,ODI # 3660,8551,52.14,c Soumya Sarkar b Mustafizur Rahman
+265,69,69,77,89.61,6,1,v Bangladesh,Shere Bangla National Stadium,24/06/2015,ODI # 3661,8620,52.24,c Mustafizur Rahman b Mashrafe Mortaza
+266,31,31,30,103.33,1,0,v South Africa,Green Park,11-10-2015,ODI # 3689,8651,52.11,c & b K Rabada
+267,92*,92,86,106.97,7,4,v South Africa,Holkar Cricket Stadium,14/10/2015,ODI # 3692,8743,52.67,not out
+268,47,47,61,77.04,5,0,v South Africa,Saurashtra Cricket Association Stadium,18/10/2015,ODI # 3695,8790,52.63,c D W Steyn b M Morkel
+269,15,15,16,93.75,1,0,v South Africa,MA Chidambaram Stadium,22/10/2015,ODI # 3698,8805,52.41,c A B de Villiers b D W Steyn
+270,27,27,29,93.1,3,0,v South Africa,Wankhede Stadium,25/10/2015,ODI # 3700,8832,52.26,b Imran Tahir
+271,18,18,13,138.46,1,1,v Australia,WACA Ground,12-01-2016,ODI # 3723,8850,52.06,c S M Boland b J P Faulkner
+272,11,11,10,110,0,0,v Australia,Brisbane Cricket Ground,15/01/2016,ODI # 3724,8861,51.82,c G J Maxwell b S M Boland
+273,23,23,9,255.55,2,2,v Australia,Melbourne Cricket Ground,17/01/2016,ODI # 3725,8884,51.65,c G J Maxwell b J W Hastings
+274,0,0,3,0,0,0,v Australia,Manuka Oval,20/01/2016,ODI # 3726,8884,51.35,c †M S Wade b J W Hastings
+275,34,34,42,80.95,1,1,v Australia,Sydney Cricket Ground,23/01/2016,ODI # 3727,8918,51.25,c D A Warner b M R Marsh
+276,DNB,-,-,-,-,-,v Zimbabwe,Harare Sports Club,11-06-2016,ODI # 3742,8918,51.25,did not bat
+277,DNB,-,-,-,-,-,v Zimbabwe,Harare Sports Club,13/06/2016,ODI # 3744,8918,51.25,did not bat
+278,DNB,-,-,-,-,-,v Zimbabwe,Harare Sports Club,15/06/2016,ODI # 3746,8918,51.25,did not bat
+279,21,21,24,87.5,1,1,v New Zealand,Himachal Pradesh Cricket Association Stadium,16/10/2016,ODI # 3796,8939,51.08,run out
+280,39,39,65,60,3,0,v New Zealand,Arun Jaitley Stadium,20/10/2016,ODI # 3797,8978,51.01,c & b T G Southee
+281,80,80,91,87.91,6,3,v New Zealand,Punjab Cricket Association IS Bindra Stadium,23/10/2016,ODI # 3798,9058,51.18,c L R P L Taylor b M J Henry
+282,11,11,31,35.48,0,0,v New Zealand,JSCA International Stadium Complex,26/10/2016,ODI # 3799,9069,50.95,b J D S Neesham
+283,41,41,59,69.49,4,1,v New Zealand,Dr YS Rajasekhara Reddy Cricket Stadium,29/10/2016,ODI # 3800,9110,50.89,lbw b M J Santner
+284,6,6,6,100,1,0,v England,Maharashtra Cricket Association Stadium,15/01/2017,ODI # 3819,9116,50.64,c D J Willey b J T Ball
+285,134,134,122,109.83,10,6,v England,Barabati Stadium,19/01/2017,ODI # 3821,9250,51.1,c D J Willey b L E Plunkett
+286,25,25,36,69.44,1,1,v England,Eden Gardens,22/01/2017,ODI # 3824,9275,50.96,c †J C Buttler b J T Ball
+287,DNB,-,-,-,-,-,v Pakistan,Edgbaston,04-06-2017,ODI # 3878,9275,50.96,did not bat
+288,63,63,52,121.15,7,2,v Sri Lanka,Kennington Oval,08-06-2017,ODI # 3882,9338,51.03,c L D Chandimal b N L T C Perera
+289,DNB,-,-,-,-,-,v South Africa,Kennington Oval,11-06-2017,ODI # 3886,9338,51.03,did not bat
+290,DNB,-,-,-,-,-,v Bangladesh,Edgbaston,15/06/2017,ODI # 3891,9338,51.03,did not bat
+291,4,4,16,25,0,0,v Pakistan,Kennington Oval,18/06/2017,ODI # 3894,9342,50.77,c Imad Wasim b Hasan Ali
+292,9*,9,9,100,1,0,v West Indies,Queen's Park Oval,23/06/2017,ODI # 3895,9351,50.82,not out
+293,13*,13,13,100,1,0,v West Indies,Queen's Park Oval,25/06/2017,ODI # 3896,9364,50.89,not out
+294,78*,78,79,98.73,4,2,v West Indies,Sir Vivian Richards Stadium,30/06/2017,ODI # 3898,9442,51.32,not out
+295,54,54,114,47.36,1,0,v West Indies,Sir Vivian Richards Stadium,02-07-2017,ODI # 3900,9496,51.33,c A S Joseph b K O K Williams
+296,DNB,-,-,-,-,-,v West Indies,Sabina Park,06-07-2017,ODI # 3902,9496,51.33,did not bat
+297,DNB,-,-,-,-,-,v Sri Lanka,Rangiri Dambulla International Stadium,20/08/2017,ODI # 3905,9496,51.33,did not bat
+298,45*,45,68,66.17,1,0,v Sri Lanka,Pallekele International Cricket Stadium,24/08/2017,ODI # 3906,9541,51.57,not out
+299,67*,67,86,77.9,4,1,v Sri Lanka,Pallekele International Cricket Stadium,27/08/2017,ODI # 3907,9608,51.94,not out
+300,49*,49,42,116.66,5,1,v Sri Lanka,R Premadasa Stadium,31/08/2017,ODI # 3908,9657,52.2,not out
+301,1*,1,1,100,0,0,v Sri Lanka,R Premadasa Stadium,03-09-2017,ODI # 3909,9658,52.21,not out
+302,79,79,88,89.77,4,2,v Australia,MA Chidambaram Stadium,17/09/2017,ODI # 3910,9737,52.35,c D A Warner b J P Faulkner
+303,5,5,10,50,1,0,v Australia,Eden Gardens,21/09/2017,ODI # 3912,9742,52.1,c S P D Smith b K W Richardson
+304,3*,3,6,50,0,0,v Australia,Holkar Cricket Stadium,24/09/2017,ODI # 3914,9745,52.11,not out
+305,13,13,10,130,1,1,v Australia,M Chinnaswamy Stadium,28/09/2017,ODI # 3917,9758,51.9,b K W Richardson
+306,DNB,-,-,-,-,-,v Australia,Vidarbha Cricket Association Stadium,01-10-2017,ODI # 3919,9758,51.9,did not bat
+307,25,25,42,59.52,2,0,v New Zealand,Wankhede Stadium,22/10/2017,ODI # 3928,9783,51.76,c M J Guptill b T A Boult
+308,18*,18,21,85.71,3,0,v New Zealand,Maharashtra Cricket Association Stadium,25/10/2017,ODI # 3931,9801,51.86,not out
+309,25,25,17,147.05,3,0,v New Zealand,Green Park,29/10/2017,ODI # 3932,9826,51.72,c C Munro b A F Milne
+310,65,65,87,74.71,10,2,v Sri Lanka,Himachal Pradesh Cricket Association Stadium,10-12-2017,ODI # 3939,9891,51.79,c M D Gunathilaka b N L T C Perera
+311,7,7,5,140,0,1,v Sri Lanka,Punjab Cricket Association IS Bindra Stadium,13/12/2017,ODI # 3941,9898,51.55,lbw b N L T C Perera
+312,DNB,-,-,-,-,-,v Sri Lanka,Dr YS Rajasekhara Reddy Cricket Stadium,17/12/2017,ODI # 3942,9898,51.55,did not bat
+313,4*,4,3,133.33,1,0,v South Africa,Kingsmead,01-02-2018,ODI # 3969,9902,51.57,not out
+314,DNB,-,-,-,-,-,v South Africa,SuperSport Park,04-02-2018,ODI # 3970,9902,51.57,did not bat
+315,10,10,22,45.45,0,0,v South Africa,Newlands,07-02-2018,ODI # 3971,9912,51.36,c L Ngidi b Imran Tahir
+316,42*,42,43,97.67,3,1,v South Africa,Wanderers Stadium,10-02-2018,ODI # 3973,9954,51.58,not out
+317,13,13,17,76.47,1,0,v South Africa,St George's Park,13/02/2018,ODI # 3976,9967,51.38,c A K Markram b L Ngidi
+318,DNB,-,-,-,-,-,v South Africa,SuperSport Park,16/02/2018,ODI # 3978,9967,51.38,did not bat
+319,DNB,-,-,-,-,-,v England,Trent Bridge,12-07-2018,ODI # 4014,9967,51.38,did not bat
+320,37,37,59,62.71,2,0,v England,Lord's,14/07/2018,ODI # 4016,10004,51.3,c B A Stokes b L E Plunkett
+321,42,42,66,63.63,4,0,v England,Headingley,17/07/2018,ODI # 4018,10046,51.26,c †J C Buttler b D J Willey
+322,0,0,3,0,0,0,v Hong Kong,Dubai International Cricket Stadium,18/09/2018,ODI # 4039,10046,50.99,c †S S McKechnie b Ehsan Khan
+323,DNB,-,-,-,-,-,v Pakistan,Dubai International Cricket Stadium,19/09/2018,ODI # 4040,10046,50.99,did not bat
+324,33,33,37,89.18,3,0,v Bangladesh,Dubai International Cricket Stadium,21/09/2018,ODI # 4042,10079,50.9,c Mohammad Mithun b Mashrafe Mortaza
+325,DNB,-,-,-,-,-,v Pakistan,Dubai International Cricket Stadium,23/09/2018,ODI # 4044,10079,50.9,did not bat
+326,8,8,17,47.05,0,0,v Afghanistan,Dubai International Cricket Stadium,25/09/2018,ODI # 4046,10087,50.69,lbw b Javed Ahmadi
+327,36,36,67,53.73,3,0,v Bangladesh,Dubai International Cricket Stadium,28/09/2018,ODI # 4048,10123,50.62,c †Mushfiqur Rahim b Mustafizur Rahman
+328,DNB,-,-,-,-,-,v West Indies,Barsapara Cricket Stadium,21/10/2018,ODI # 4056,10123,50.62,did not bat
+329,20,20,25,80,0,1,v West Indies,Dr YS Rajasekhara Reddy Cricket Stadium,24/10/2018,ODI # 4059,10143,50.46,b O C McCoy
+330,7,7,11,63.63,0,0,v West Indies,Maharashtra Cricket Association Stadium,27/10/2018,ODI # 4062,10150,50.25,c †S D Hope b J O Holder
+331,23,23,15,153.33,2,0,v West Indies,Brabourne Stadium,29/10/2018,ODI # 4063,10173,50.11,c C Hemraj b K A J Roach
+332,DNB,-,-,-,-,-,v West Indies,Greenfield International Stadium,01-11-2018,ODI # 4064,10173,50.11,did not bat
+333,51,51,96,53.12,3,1,v Australia,Sydney Cricket Ground,12-01-2019,ODI # 4077,10224,50.12,lbw b J P Behrendorff
+334,55*,55,54,101.85,0,2,v Australia,Adelaide Oval,15/01/2019,ODI # 4078,10279,50.39,not out
+335,87*,87,114,76.31,6,0,v Australia,Melbourne Cricket Ground,18/01/2019,ODI # 4079,10366,50.81,not out
+336,DNB,-,-,-,-,-,v New Zealand,McLean Park,23/01/2019,ODI # 4082,10366,50.81,did not bat
+337,48*,48,33,145.45,5,1,v New Zealand,Bay Oval,26/01/2019,ODI # 4085,10414,51.05,not out
+338,1,1,6,16.66,0,0,v New Zealand,Westpac Stadium,03-02-2019,ODI # 4092,10415,50.8,b T A Boult
+339,59*,59,72,81.94,6,1,v Australia,Rajiv Gandhi International Stadium,02-03-2019,ODI # 4102,10474,51.09,not out
+340,0,0,1,0,0,0,v Australia,Vidarbha Cricket Association Stadium,05-03-2019,ODI # 4106,10474,50.84,c U T Khawaja b A Zampa
+341,26,26,42,61.9,2,1,v Australia,JSCA International Stadium Complex,08-03-2019,ODI # 4109,10500,50.72,b A Zampa
+342,34,34,46,73.91,2,0,v South Africa,The Rose Bowl,05-06-2019,ODI # 4150,10534,50.64,c & b C H Morris
+343,27,27,14,192.85,3,1,v Australia,Kennington Oval,09-06-2019,ODI # 4155,10561,50.53,c & b M P Stoinis
+344,1,1,2,50,0,0,v Pakistan,Old Trafford,16/06/2019,ODI # 4161,10562,50.3,c †Sarfaraz Ahmed b Mohammad Amir
+345,28,28,52,53.84,3,0,v Afghanistan,The Rose Bowl,22/06/2019,ODI # 4169,10590,50.19,st Ikram Ali Khil b Rashid Khan
+346,56*,56,61,91.8,3,2,v West Indies,Old Trafford,27/06/2019,ODI # 4175,10646,50.45,not out
+347,42*,42,31,135.48,4,1,v England,Edgbaston,30/06/2019,ODI # 4179,10688,50.65,not out
+348,35,35,33,106.06,4,0,v Bangladesh,Edgbaston,02-07-2019,ODI # 4182,10723,50.58,c Shakib Al Hasan b Mustafizur Rahman
+349,DNB,-,-,-,-,-,v Sri Lanka,Headingley,06-07-2019,ODI # 4187,10723,50.58,did not bat
+350,50,50,72,69.44,1,1,v New Zealand,Old Trafford,09-07-2019,ODI # 4190,10773,50.58,run out
